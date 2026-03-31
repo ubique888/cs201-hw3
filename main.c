@@ -25,7 +25,7 @@ int main(){
     printf("The sum is: %d\n",sumOfPowers(3));
 
     // TestCase-2
-    /*ß
+    /*
     CUSTOMER* a1=malloc(sizeof(CUSTOMER));
     CUSTOMER* a2=malloc(sizeof(CUSTOMER));
     CUSTOMER* a3=malloc(sizeof(CUSTOMER));
@@ -50,10 +50,11 @@ int main(){
     */
 
     // TestCase-4
-
+    /*
     EMPLOYEE e1={"jame",2000}, e2={"sara",3000}, e3={"alic",2500}, e4={"mark",3200};
     EMPLOYEE employees[4]={e1,e2,e3,e4};
     printf("The sum of salaries is: %d\n",findSalariesSum(employees,4));
+    */
 
 
 }
