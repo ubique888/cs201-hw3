@@ -46,11 +46,9 @@ int main(){
     printf("The sum of all payments is: %d\n",findPaymentsSum(cstmr, 5));
 
     // TestCase-4
-    /*
     EMPLOYEE e1={"jame",2000}, e2={"sara",3000}, e3={"alic",2500}, e4={"mark",3200};
     EMPLOYEE employees[4]={e1,e2,e3,e4};
     printf("The sum of salaries is: %d\n",findSalariesSum(employees,4));
-    */
 
 
 }
