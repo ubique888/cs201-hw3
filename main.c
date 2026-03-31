@@ -35,7 +35,6 @@ int main(){
     printf("The result of the comparison is: %d\n",compareAges(a1,a3));
 
     // TestCase-3
-    /*
     CUSTOMER* cstmr=malloc(sizeof(CUSTOMER));
     cstmr->id=101;
     cstmr->age=30;
@@ -45,7 +44,6 @@ int main(){
     cstmr->payments[3]=500;
     cstmr->payments[4]=300;
     printf("The sum of all payments is: %d\n",findPaymentsSum(cstmr, 5));
-    */
 
     // TestCase-4
     /*
