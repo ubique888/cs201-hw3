@@ -1,7 +1,7 @@
 .global findSalariesSum
 findSalariesSum:
     mov $0, %eax
-    mov $0. %ecx
+    mov $0, %ecx
 loop:
     cmp %esi, %ecx
     jge done
