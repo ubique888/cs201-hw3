@@ -12,5 +12,5 @@ loop:
     add $1, %ecx
     jmp loop
 
-done：
+done:
     ret
